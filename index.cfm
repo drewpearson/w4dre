@@ -73,6 +73,7 @@
               <li class="d-flex align-items-start mb-1"><a href="https://pota.app/" target="_blank">Parks on the Air (POTA)</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://pskreporter.info/" target="_blank">Digimode Automatic Propagation Reporter</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://dxwatch.com/" target="_blank">DX Watch</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://dxheat.com/" target="_blank">DX Heat</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://www.reversebeacon.net/" target="_blank">Reverse Beacon Network</a></li>
               <li class="d-flex align-items-start mb-1"><a href="http://www.wsprnet.org/" target="_blank">WSPRnet</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://udel.edu/~mm/ham/randomWire/" target="_blank">Random Wire Antenna Lengths</a></li>
