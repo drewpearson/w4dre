@@ -86,6 +86,9 @@
               <li class="d-flex align-items-start mb-1"><a href="http://www.w3pga.org/Antenna%20Books/Reflections%20III.pdf" target="_blank">Reflections III.pdf</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://www.heywhatsthat.com/profiler.html" target="_blank">HeyWhatsThat Path Profiler</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://www.voacap.com/" target="_blank">VOACAP</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="http://www.w3pga.org/Antenna.htm" target="_blank">W3PGA Antenna Workshop</a></li>
+
+
             </ul>
           </div>
 
