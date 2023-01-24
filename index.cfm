@@ -61,28 +61,12 @@
 
         <div class="row g-5">
 
-          <div class="col-md-6">
-            <!--- <h2>Links</h2> --->
-            <!--- <p>Ready to beyond the starter template? Check out these open source projects that you can quickly duplicate to a new GitHub repository.</p> --->
-            <ul class="icon-list ps-0">
-            <li class="d-flex align-items-start mb-1">
-            <a href="https://www.qrz.com/db/W4DRE" rel="noopener" target="_blank">My QRZ Page</a>
-            </li>
-
-            <!---             <li class="d-flex align-items-start mb-1">
-            <a href="https://www.star.nesdis.noaa.gov/goes/index.php" rel="noopener" target="_blank">GOES Image Viewer</a>
-            </li>
-            --->
-
-            <!--- <li class="text-muted d-flex align-items-start mb-1">Bootstrap Parcel starter (coming soon!)</li> --->
-
-            </ul>
-          </div>
 
           <div class="col-md-6">
             <h2>Reference</h2>
             <p>Links to useful ham information.</p>
             <ul class="icon-list ps-0">
+              <li class="d-flex align-items-start mb-1"><a href="https://www.qrz.com/db/W4DRE" rel="noopener" target="_blank">My QRZ Page</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://hamstudy.org/">HamStudy.org: Cutting edge amateur radio study tools</a></li>
               <li class="d-flex align-items-start mb-1"><a href="http://hampsteadhams.com/popular-frequencies/">Popular Frequencies – Hampstead Hams</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://hamalert.org/">HamAlert</a></li>
