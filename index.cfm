@@ -121,7 +121,7 @@
 
     </div>
 
-    <cfset json_links = fileRead('links.json')>
+    <!--- <cfset json_links = fileRead('links.json')> --->
     <!--- <cfdump var="#json_links#"> --->
     <cfdump var="#ExpandPath( "/")#">
 
