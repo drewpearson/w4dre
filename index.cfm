@@ -80,10 +80,48 @@
           </div>
 
           <div class="col-md-6">
+            <h2>Reference</h2>
+            <p>Links to useful ham information.</p>
+            <ul class="icon-list ps-0">
+              <li class="d-flex align-items-start mb-1"><a href="https://hamstudy.org/">HamStudy.org: Cutting edge amateur radio study tools</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="http://hampsteadhams.com/popular-frequencies/">Popular Frequencies – Hampstead Hams</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://hamalert.org/">HamAlert</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://pota.app/">Parks on the Air (POTA)</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://pskreporter.info/">Digimode Automatic Propagation Reporter</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://dxwatch.com/">DX Watch</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://www.reversebeacon.net/">Reverse Beacon Network</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="http://www.wsprnet.org/">WSPRnet</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://udel.edu/~mm/ham/randomWire/">Random Wire Antenna Lengths</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://www.ae7q.com/query/">AE7Q Amateur Radio Database Query Tools</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="http://www.radioqth.net/">RadioQTH</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://prop.kc2g.com/">prop.kc2g.com</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://www.hamqsl.com/solar.html">HF Propagation and Solar-Terrestrial Data Website</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://qth.com/">QTH.com</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="http://www.w3pga.org/Antenna%20Books/Reflections%20III.pdf">Reflections III.pdf</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://www.heywhatsthat.com/profiler.html">HeyWhatsThat Path Profiler</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://www.voacap.com/">VOACAP : HF Propagation Prediction and Ionospheric Communications Analysis</a></li>
+            </ul>
+          </div>
+
+          <div class="col-md-6">
+            <h2>CW</h2>
+            <p>Morse code stuff.</p>
+            <ul class="icon-list ps-0">
+              <li class="d-flex align-items-start mb-1"><a href="https://cwops.org/">CW Academy</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://longislandcwclub.org/">Long Island CW Club</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://www.g4fon.net/">G4FON</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://lcwo.net/">Learn CW Online</a></li>
+            </ul>
+          </div>
+
+
+          <div class="col-md-6">
             <h2>Local</h2>
             <p>Links to local clubs/information.</p>
             <ul class="icon-list ps-0">
+              <li class="d-flex align-items-start mb-1"><a href="http://www.ac4rc.org/">ACARC</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://www.n4ilm.org/">N4ILM</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="http://hampsteadhams.com/">Hampstead Hams</a></li>
             </ul>
           </div>
     
