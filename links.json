@@ -3,14 +3,16 @@
     {
       "URL": "https://reference-link-1.com",
       "NAME": "Reference Link 1 Name",
-      "DESCRIPTION": "Reference Link 1 Description"
+      "DESCRIPTION": "Reference Link 1 Description",
+      "DISPLAY_ORDER": 1
     }
   ],
   "LOCAL": [
     {
       "URL": "https://local-link-1.com",
       "NAME": "Local Link 1 Name",
-      "DESCRIPTION": "Local Link 1 Description"
+      "DESCRIPTION": "Local Link 1 Description",
+      "DISPLAY_ORDER": 1
     }
   ]
 }
