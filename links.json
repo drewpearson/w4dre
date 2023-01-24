@@ -5,6 +5,18 @@
       "NAME": "Reference Link 1 Name",
       "DESCRIPTION": "Reference Link 1 Description",
       "DISPLAY_ORDER": 1
+    },
+    {
+      "URL": "https://reference-link-2.com",
+      "NAME": "Reference Link 2 Name",
+      "DESCRIPTION": "Reference Link 2 Description",
+      "DISPLAY_ORDER": 2
+    },
+    {
+      "URL": "https://reference-link-3.com",
+      "NAME": "Reference Link 3 Name",
+      "DESCRIPTION": "Reference Link 3 Description",
+      "DISPLAY_ORDER": 3
     }
   ],
   "LOCAL": [
