@@ -67,6 +67,7 @@
             <p>Links to useful ham information.</p>
             <ul class="icon-list ps-0">
               <li class="d-flex align-items-start mb-1"><a href="https://www.qrz.com/db/W4DRE" target="_blank">My QRZ Page</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://www.icomamerica.com/en/products/amateur/hf/7300/default.aspx" target="_blank">Icom IC-7300</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://hamstudy.org/" target="_blank">HamStudy.org</a></li>
               <li class="d-flex align-items-start mb-1"><a href="http://hampsteadhams.com/popular-frequencies/" target="_blank">Popular Frequencies</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://hamalert.org/" target="_blank">HamAlert</a></li>
