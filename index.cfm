@@ -121,6 +121,19 @@
 
     </div>
 
+    <cfset struct_links = structNew()>
+    <cfset struct_links.reference = arrayNew(1)>
+    <cfset struct_links.reference[1] = structNew()>
+      <cfset struct_links.reference[1].name = 'Reference Link 1 Name'>
+      <cfset struct_links.reference[1].url = 'https://reference-link-1.com'>
+    <cfset struct_links.local = arrayNew(1)>
+    <cfset struct_links.local[1] = structNew()>
+      <cfset struct_links.local[1].name = 'Local Link 1 Name'>
+      <cfset struct_links.local[1].url = 'https://local-link-1.com'>
+
+    <cfdump var="#struct_links#">
+    <cfdump var="#SerializeJSON(struct_links)#">
+
     <!--- Scripts --->
     <script src="/assets/dist/js/bootstrap.bundle.min.js"></script>
 
