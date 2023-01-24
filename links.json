@@ -2,13 +2,15 @@
   "REFERENCE": [
     {
       "URL": "https://reference-link-1.com",
-      "NAME": "Reference Link 1 Name"
+      "NAME": "Reference Link 1 Name",
+      "DESCRIPTION": "Reference Link 1 Description"
     }
   ],
   "LOCAL": [
     {
       "URL": "https://local-link-1.com",
-      "NAME": "Local Link 1 Name"
+      "NAME": "Local Link 1 Name",
+      "DESCRIPTION": "Local Link 1 Description"
     }
   ]
 }
