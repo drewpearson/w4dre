@@ -121,6 +121,11 @@
 
     </div>
 
+    <cfset json_links = fileRead('links.json')>
+    <cfdump var="#json_links#">
+    <cfdump var="#ExpandPath( "/")#">
+
+
     <!--- Scripts --->
     <script src="/assets/dist/js/bootstrap.bundle.min.js"></script>
 
