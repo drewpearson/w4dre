@@ -1,30 +1,40 @@
 {
-  "REFERENCE": [
+    "REFERENCE": 
     {
-      "URL": "https://reference-link-1.com",
-      "NAME": "Reference Link 1 Name",
-      "DESCRIPTION": "Reference Link 1 Description",
-      "DISPLAY_ORDER": 1
+        "DESCRIPTION": "Reference Description",
+        "LINKS": 
+        [
+            {
+              "URL": "https://reference-link-1.com",
+              "NAME": "Reference Link 1 Name",
+              "DESCRIPTION": "Reference Link 1 Description",
+              "DISPLAY_ORDER": 1
+            },
+            {
+              "URL": "https://reference-link-2.com",
+              "NAME": "Reference Link 2 Name",
+              "DESCRIPTION": "Reference Link 2 Description",
+              "DISPLAY_ORDER": 2
+            },
+            {
+              "URL": "https://reference-link-3.com",
+              "NAME": "Reference Link 3 Name",
+              "DESCRIPTION": "Reference Link 3 Description",
+              "DISPLAY_ORDER": 3
+            }
+        ]
     },
+    "LOCAL": 
     {
-      "URL": "https://reference-link-2.com",
-      "NAME": "Reference Link 2 Name",
-      "DESCRIPTION": "Reference Link 2 Description",
-      "DISPLAY_ORDER": 2
-    },
-    {
-      "URL": "https://reference-link-3.com",
-      "NAME": "Reference Link 3 Name",
-      "DESCRIPTION": "Reference Link 3 Description",
-      "DISPLAY_ORDER": 3
+        "DESCRIPTION": "Reference Description",
+        "LINKS":
+        [
+            {
+              "URL": "https://local-link-1.com",
+              "NAME": "Local Link 1 Name",
+              "DESCRIPTION": "Local Link 1 Description",
+              "DISPLAY_ORDER": 1
+            }
+        ]
     }
-  ],
-  "LOCAL": [
-    {
-      "URL": "https://local-link-1.com",
-      "NAME": "Local Link 1 Name",
-      "DESCRIPTION": "Local Link 1 Description",
-      "DISPLAY_ORDER": 1
-    }
-  ]
 }
