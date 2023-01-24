@@ -6,7 +6,7 @@
 
     <meta name="description" content="This is the homepage for ham radio operator, Drew Pearson.">
     <meta name="author" content="Drew Pearson - W4DRE">
-    <title>W4DRE</title>
+    <title>W4DRE - DREW</title>
 
     <link rel="canonical" href="https://w4dre.com">
 
@@ -48,23 +48,23 @@
       <header class="d-flex align-items-center pb-3 mb-5 border-bottom">
         <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
           <img style="width:17px; padding-top:2px;" src="/assets/favicon/favicon-32x32.png">
-          <span class="fs-4">W4DRE - Drew Pearson</span>
+          <span class="fs-4">W4DRE - DREW</span>
         </a>
       </header>
 
       <main>
 
-      <!--- <h1>Drew Pearson - W4DRE</h1> --->
-      <!--- <p class="fs-5 col-md-8">Quickly and easily get started with Bootstrap's compiled, production-ready files with this barebones example featuring some basic HTML and helpful links. Download all our examples to get started.</p> --->
+      <h1>Drew Pearson - W4DRE</h1>
+      <p class="fs-5 col-md-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
-      <!--- <hr class="col-3 col-md-2 mb-5"> --->
+      <hr class="col-3 col-md-2 mb-5">
 
         <div class="row g-5">
 
 
           <div class="col-md-6">
             <h2>Reference</h2>
-            <p>Links to useful ham information.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <ul class="icon-list ps-0">
               <li class="d-flex align-items-start mb-1"><a href="https://www.qrz.com/db/W4DRE" target="_blank">My QRZ Page</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://www.icomamerica.com/en/products/amateur/hf/7300/default.aspx" target="_blank">Icom IC-7300</a></li>
@@ -91,7 +91,7 @@
 
           <div class="col-md-6">
             <h2>CW</h2>
-            <p>Morse code stuff.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <ul class="icon-list ps-0">
               <li class="d-flex align-items-start mb-1"><a href="https://cwops.org/" target="_blank">CW Academy</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://longislandcwclub.org/" target="_blank">Long Island CW Club</a></li>
@@ -103,7 +103,7 @@
 
           <div class="col-md-6">
             <h2>Local</h2>
-            <p>Links to local clubs/information.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <ul class="icon-list ps-0">
               <li class="d-flex align-items-start mb-1"><a href="http://www.ac4rc.org/" target="_blank">ACARC</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://www.n4ilm.org/" target="_blank">N4ILM</a></li>
