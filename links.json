@@ -1,6 +1,7 @@
 {
     "REFERENCE": 
     {
+        "TITLE": "Reference Title",
         "DESCRIPTION": "Reference Description",
         "LINKS": 
         [
@@ -26,7 +27,8 @@
     },
     "LOCAL": 
     {
-        "DESCRIPTION": "Reference Description",
+        "TITLE": "Local Title",
+        "DESCRIPTION": "Local Description",
         "LINKS":
         [
             {
