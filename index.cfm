@@ -67,8 +67,8 @@
             <p>Links to useful ham information.</p>
             <ul class="icon-list ps-0">
               <li class="d-flex align-items-start mb-1"><a href="https://www.qrz.com/db/W4DRE" rel="noopener" target="_blank">My QRZ Page</a></li>
-              <li class="d-flex align-items-start mb-1"><a href="https://hamstudy.org/">HamStudy.org: Cutting edge amateur radio study tools</a></li>
-              <li class="d-flex align-items-start mb-1"><a href="http://hampsteadhams.com/popular-frequencies/">Popular Frequencies – Hampstead Hams</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://hamstudy.org/">HamStudy.org</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="http://hampsteadhams.com/popular-frequencies/">Popular Frequencies</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://hamalert.org/">HamAlert</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://pota.app/">Parks on the Air (POTA)</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://pskreporter.info/">Digimode Automatic Propagation Reporter</a></li>
@@ -83,7 +83,7 @@
               <li class="d-flex align-items-start mb-1"><a href="https://qth.com/">QTH.com</a></li>
               <li class="d-flex align-items-start mb-1"><a href="http://www.w3pga.org/Antenna%20Books/Reflections%20III.pdf">Reflections III.pdf</a></li>
               <li class="d-flex align-items-start mb-1"><a href="https://www.heywhatsthat.com/profiler.html">HeyWhatsThat Path Profiler</a></li>
-              <li class="d-flex align-items-start mb-1"><a href="https://www.voacap.com/">VOACAP : HF Propagation Prediction and Ionospheric Communications Analysis</a></li>
+              <li class="d-flex align-items-start mb-1"><a href="https://www.voacap.com/">VOACAP</a></li>
             </ul>
           </div>
 
