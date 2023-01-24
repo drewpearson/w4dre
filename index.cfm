@@ -121,8 +121,11 @@
 
     </div>
 
+    <!--- Testing --->
     <cfset json_links = fileRead('#ExpandPath( "/")#links.json')>
-    <cfdump var="#json_links#">
+    <pre>
+      <cfoutput>#json_links#</cfoutput>
+    </pre>
 
 
     <!--- Scripts --->
