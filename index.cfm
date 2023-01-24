@@ -114,7 +114,7 @@
       </main>
 
       <footer class="pt-5 my-5 text-muted border-top">
-      <!--- Created by the Bootstrap team &middot; &copy; 2022 --->
+        &copy; <cfoutput>#DateFormat(now(),"yyyy")#</cfoutput> Drew Pearson - W4DRE - drewpearson@duck.com
       </footer>
 
     </div>
